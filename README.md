@@ -1,6 +1,7 @@
-# Gif-APP
-<p align="center">App para pesquisar Gifs com React</p>
-<p align="center">
+# App para pesquisar Gifs
+<br>
+
+:earth_americas: <a href="https://gif-app-sophy.netlify.app/" target="_blank">Preview Gif App</a>
 
 <hr>
 
