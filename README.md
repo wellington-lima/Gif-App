@@ -16,6 +16,12 @@
 <br>
 <hr>
 
+### :link: Recursos
+ A aplicação consome a API GIPHY
+ <p><strong>GIPHY:</strong> https://developers.giphy.com/</p>
+<br>
+<hr>
+
 ### :technologist: Autor
 <a href="https://github.com/wellington-lima">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/11821851?v=4" width="100px;" alt=""/>
